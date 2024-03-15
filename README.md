@@ -1,6 +1,6 @@
 # Colorizer theme for zed
 
-![Dark Theme](./screenshots/Screenshot%202024-03-03%20at%2010.58.00%20PM.png)
+![Dark Theme](./screenshots/Screenshot%202024-03-15%20at%207.59.20%20PM.png)
 
 ## Installation
 
