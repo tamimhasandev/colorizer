@@ -125,8 +125,8 @@
           },
           "keyword": {
             "color": "#c74ded",
-            "font_style": "italic",
-            "font_weight": 500
+            "font_style": null,
+            "font_weight": null
           },
           "number": {
             "color": "#ae81ff",
