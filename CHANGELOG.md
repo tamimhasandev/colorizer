@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.4] - 2024-08-23
+
+- Improved & Fixed
+- Updated Colorizer Pro Theme
+
 ## [0.0.3] - 2024-03-19
 
 - Improved & Fixed Italic keyword
