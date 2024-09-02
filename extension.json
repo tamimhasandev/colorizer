@@ -1,7 +1,7 @@
 {
   "name": "Colorizer",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "authors": ["Md Tamim Hasan <tamimhasandev@gmail.com>"],
-  "description": "Colorizer is a zed code editor theme that will help you write better code with a better look",
+  "description": "Colorizer is a zed code editor theme",
   "repository": "https://github.com/tamimhasandev/colorizer"
 }

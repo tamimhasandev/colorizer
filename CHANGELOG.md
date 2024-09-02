@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.0] - 2024-09-02
+
+- Improved & Fixed
+
 ## [0.0.4] - 2024-08-23
 
 - Improved & Fixed

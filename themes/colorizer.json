@@ -1,6 +1,6 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Colorizer Theme For Zed",
+  "name": "Colorizer Theme",
   "author": "Md Tamim Hasan",
   "themes": [
     {
@@ -327,8 +327,44 @@
         },
         "players": [
           {
-            "cursor": "#b4b4b4",
-            "selection": "#1F3B57"
+            "background": "#3b9ee5ff",
+            "cursor": "#3b9ee5ff",
+            "selection": "#3b9ee53d"
+          },
+          {
+            "background": "#55b4d3ff",
+            "cursor": "#55b4d3ff",
+            "selection": "#55b4d33d"
+          },
+          {
+            "background": "#f98d3fff",
+            "cursor": "#f98d3fff",
+            "selection": "#f98d3f3d"
+          },
+          {
+            "background": "#a37accff",
+            "cursor": "#a37accff",
+            "selection": "#a37acc3d"
+          },
+          {
+            "background": "#4dbf99ff",
+            "cursor": "#4dbf99ff",
+            "selection": "#4dbf993d"
+          },
+          {
+            "background": "#ef7271ff",
+            "cursor": "#ef7271ff",
+            "selection": "#ef72713d"
+          },
+          {
+            "background": "#f1ad49ff",
+            "cursor": "#f1ad49ff",
+            "selection": "#f1ad493d"
+          },
+          {
+            "background": "#85b304ff",
+            "cursor": "#85b304ff",
+            "selection": "#85b3043d"
           }
         ]
       }
@@ -505,7 +541,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#b695f3",
+            "color": "#ae81ff",
             "font_style": null,
             "font_weight": null
           },
@@ -630,7 +666,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#08e7c5ff",
+            "color": "#80E6FD",
             "font_style": null,
             "font_weight": null
           },
@@ -662,8 +698,44 @@
         },
         "players": [
           {
-            "cursor": "#b4b4b4",
-            "selection": "#1F3B57"
+            "background": "#3b9ee5ff",
+            "cursor": "#3b9ee5ff",
+            "selection": "#3b9ee53d"
+          },
+          {
+            "background": "#55b4d3ff",
+            "cursor": "#55b4d3ff",
+            "selection": "#55b4d33d"
+          },
+          {
+            "background": "#f98d3fff",
+            "cursor": "#f98d3fff",
+            "selection": "#f98d3f3d"
+          },
+          {
+            "background": "#a37accff",
+            "cursor": "#a37accff",
+            "selection": "#a37acc3d"
+          },
+          {
+            "background": "#4dbf99ff",
+            "cursor": "#4dbf99ff",
+            "selection": "#4dbf993d"
+          },
+          {
+            "background": "#ef7271ff",
+            "cursor": "#ef7271ff",
+            "selection": "#ef72713d"
+          },
+          {
+            "background": "#f1ad49ff",
+            "cursor": "#f1ad49ff",
+            "selection": "#f1ad493d"
+          },
+          {
+            "background": "#85b304ff",
+            "cursor": "#85b304ff",
+            "selection": "#85b3043d"
           }
         ]
       }
