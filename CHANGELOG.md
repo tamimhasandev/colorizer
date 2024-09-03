@@ -1,13 +1,10 @@
 # Change Log
 
-## [0.1.0] - 2024-09-02
-
-- Improved & Fixed
-
 ## [0.0.4] - 2024-08-23
 
 - Improved & Fixed
 - Updated Colorizer Pro Theme
+- Fixed version issues
 
 ## [0.0.3] - 2024-03-19
 

@@ -1,6 +1,6 @@
-id = "_colorizer"
+id = "colorizer"
 name = "Colorizer"
-version = "0.1.0"
+version = "0.0.4"
 schema_version = 1
 authors = ["Md Tamim Hasan <tamimhasandev@gmail.com>"]
 description = "Colorizer is a vibrant Zed code editor theme that enhances readability with rich, contrasting colors, making your coding experience both efficient and enjoyable."
