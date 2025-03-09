@@ -41,7 +41,7 @@
 
         "search.match_background": null,
 
-        "scrollbar_thumb.background": "#3A3F4C77",
+        "scrollbar.thumb.background": "#3A3F4C77",
         "scrollbar.thumb.hover_background": "#3A3F4CAA",
         "scrollbar.thumb.border": "#3A3F4CAA",
         "scrollbar.track.background": "#1e1e1e",
@@ -407,7 +407,7 @@
 
         "search.match_background": null,
 
-        "scrollbar_thumb.background": "#3A3F4C77",
+        "scrollbar.thumb.background": "#3A3F4C77",
         "scrollbar.thumb.hover_background": "#3A3F4CAA",
         "scrollbar.thumb.border": "#3A3F4CAA",
         "scrollbar.track.background": "#1e1e1e",
