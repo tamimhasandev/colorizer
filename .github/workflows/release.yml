@@ -11,8 +11,7 @@ jobs:
       - uses: huacnlee/zed-extension-action@v1
         with:
           extension-name: zed-icons
-          # যদি extension ভিন্ন সাবফোল্ডারে থাকে, তবে uncomment করো:
-          # extension-path: extensions/zed-icons
+
           push-to: tamimhasandev/extensions
         env:
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
