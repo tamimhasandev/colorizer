@@ -509,7 +509,7 @@
 
         "syntax": {
           "property": {
-            "color": "#fff",
+            "color": "#f39c12",
             "font_style": "italic",
             "font_weight": null
           },
