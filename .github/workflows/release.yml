@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v1
         with:
-          extension-name: zed-icons
+          extension-name: colorizer
 
           push-to: tamimhasandev/extensions
         env:
