@@ -1,7 +1,10 @@
 # Colorizer theme for zed
 
-☕ **Support My Work**  
+☕ **Support My Work**
 If you like this theme, consider [buying me a coffee](https://buymeacoffee.com/tamimhasan). Your support means a lot! ❤️
+
+🛍️ **Need Digital Products?**
+You can also support me by purchasing from my website: [Unibazar](https://unibazar.net)
 
 ## Colorizer
 
