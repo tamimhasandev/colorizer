@@ -7,8 +7,8 @@
       "name": "Colorizer",
       "appearance": "dark",
       "style": {
-        "border": "#1e1e1e",
-        "border.variant": "#222222",
+        "border": "#3a3a3a",
+        "border.variant": "#2e2e2e",
 
         "editor.background": "#1e1e1e",
         "panel.background": "#252526",
@@ -397,8 +397,8 @@
       "name": "Colorizer Pro",
       "appearance": "dark",
       "style": {
-        "border": "#181c29",
-        "border.variant": "#222222",
+        "border": "#2c3142",
+        "border.variant": "#222840",
 
         "editor.background": "#181c29",
         "panel.background": "#12141e",
